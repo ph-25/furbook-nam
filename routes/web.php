@@ -12,6 +12,5 @@
 */
 
 Route::get('/', function () {
-    // return view('welcome');
-    echo "Welcome Loger Nam";
+    return view('welcome');
 });
